@@ -1,6 +1,7 @@
 {
     "name": "kauan/mvc",
     "description": "Estrutura MVC base",
+    "type": "project",
     "autoload": {
         "psr-4": {
             "App\\": "app/"
