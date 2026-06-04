@@ -52,8 +52,6 @@ project/
 ├── public/
 |   ├── assests/
 │
-├── storage/
-│
 ├── vendor/
 │
 ├── .env
